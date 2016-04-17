@@ -33,8 +33,6 @@
     "babel-preset-stage-0": "^6.5.0",
     "coveralls": "^2.11.8",
     "eslint": "^2.6.0",
-    "eslint-config-airbnb": "^7.0.0",
-    "eslint-plugin-jsx-a11y": "^0.6.2",
     "tap": "^5.7.1"
   },
   "nyc": {
