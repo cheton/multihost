@@ -1,6 +1,6 @@
 {
   "name": "multihost",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hosting multiple Express apps on the same server.",
   "homepage": "https://github.com/cheton/multihost",
   "main": "lib/index.js",
