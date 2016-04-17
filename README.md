@@ -42,6 +42,7 @@ var app = express();
 var fooApp = express();
 var barApp = express();
 var mainApp = express();
+var multihost = require('multihost');
 
 app.use(multihost({
     hosts: 'foo.com',
