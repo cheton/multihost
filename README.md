@@ -38,6 +38,11 @@ var app = express();
 
 ## Examples
 ```js
+var app = express();
+var fooApp = express();
+var barApp = express();
+var mainApp = express();
+
 app.use(multihost({
     hosts: 'foo.com',
     server: fooApp
