@@ -1,6 +1,6 @@
 # multihost [![build status](https://travis-ci.org/cheton/multihost.svg?branch=master)](https://travis-ci.org/cheton/multihost) [![Coverage Status](https://coveralls.io/repos/github/cheton/multihost/badge.svg?branch=master)](https://coveralls.io/github/cheton/multihost?branch=master)
 
-[![NPM](https://nodei.co/npm/multihost.png?downloads=true&stars=true)](https://nodei.co/npm/multihost/)  
+[![NPM](https://nodei.co/npm/multihost.png?downloads=true&stars=true)](https://www.npmjs.com/package/multihost)
 
 Hosting multiple Express apps on the same server.
 
